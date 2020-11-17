@@ -1,4 +1,4 @@
-<h1 align="center">React Express Electron Boilerplate</h1>
+<h1 align="center">React Express Electron Application</h1>
 
 <p align="center">
 <img src="/screenshot.PNG" width="350">
